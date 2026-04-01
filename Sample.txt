@@ -1,0 +1,9 @@
+Disadvantage -
+	Unwanted File Creation 
+	Configure & folder structure automatically changed 
+	Choosing locator's in static method only
+	Didn't get proper file 
+	automatically generate the codes and automatically fixed but we don't know which has been fixed 
+	Its's create N-number of code has been created
+	we asked one scenario mean in will be generate multiple scenario ( ex: Screenshot)
+
